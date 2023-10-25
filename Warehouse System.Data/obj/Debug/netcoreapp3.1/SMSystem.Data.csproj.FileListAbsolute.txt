@@ -1,0 +1,32 @@
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.deps.json
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.json
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.runtimeconfig.dev.json
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.dll
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Data.pdb
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.AssemblyReference.cache
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfoInputs.cache
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.AssemblyInfo.cs
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CoreCompileInputs.cache
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.csproj.CopyComplete
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.dll
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.pdb
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Data\obj\Debug\netcoreapp3.1\SMSystem.Data.genruntimeconfig.cache

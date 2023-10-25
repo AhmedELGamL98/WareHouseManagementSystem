@@ -1,0 +1,19 @@
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.deps.json
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.AssemblyInfo.cs
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.dll
+C:\Users\Abdul\Source\Repos\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.pdb
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.deps.json
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.dll
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\bin\Debug\netcoreapp3.1\SMSystem.Core.pdb
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.AssemblyInfoInputs.cache
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.AssemblyInfo.cs
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.csproj.CoreCompileInputs.cache
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.dll
+F:\computer science\iti\Entity and linq\Project\SMSystem\SMSystem.Core\obj\Debug\netcoreapp3.1\SMSystem.Core.pdb
